@@ -1,0 +1,5 @@
+Minimum no of removals required for [aaa] to have unique frequencies is 0.
+Minimum no of removals required for [aba] to have unique frequencies is 0.
+Minimum no of removals required for [aabb] to have unique frequencies is 1.
+Minimum no of removals required for [aabbcc] to have unique frequencies is 3.
+Minimum no of removals required for [] to have unique frequencies is 0.
